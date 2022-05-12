@@ -1,8 +1,8 @@
 
 ## 👋🏼 Hi, I’m Hayley Zorkic 
 - 📊 I'm a Machine Learning Product Engineer for Science and Healthcare applications.
-- :computer: I studied Computational Biology and Computer Science. 
-- 🤘🏼 I just graduated from the University of Texas at Austin.
+- :computer: I'm getting my MS in Data Science from UT Austin.  
+- 🤘🏼 I just graduated from UT Austin where I studied Computational Biology and Computer Science.
 
 
 ## 📄 Here are some of my recent projects
