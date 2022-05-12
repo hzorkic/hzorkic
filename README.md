@@ -7,5 +7,5 @@
 
 ## 📄 Here are some of my recent projects
 - 📈 [Machine Learning for Colon Cancer Drug Disovery](https://github.com/hzorkic/machine_learning_and_molecular_docking_for_drug_discovery)
-- 💊 [Contraceptive Review Sentiment Analysis for Pharmacovigilance]()
+- 💊 [Contraceptive Review Sentiment Analysis for Pharmacovigilance](https://github.com/hzorkic/Pharmacovigilance_Sentiment_Analysis)
 - 🎥 [Movie Recomendation Systems]()
