@@ -1,5 +1,5 @@
 
-## 👋🏼 Hi, I’m Hayley Zorkic 
+## 👋🏼 Hi, I’m Zora Zorkic 
 - 📊 I'm a Machine Learning Product Engineer for Science and Healthcare applications.
 - :computer: I'm getting my MS in Data Science from UT Austin.  
 - 🤘🏼 I just graduated with my BS from UT Austin where I studied Computational Biology and Computer Science.
