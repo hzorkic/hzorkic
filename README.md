@@ -1,6 +1,6 @@
 
 ## 👋🏼 Hi, I’m Zora Zorkic 
-- 📊 I'm a design, development, and data girl. I find joy sitting right in the middle of all three. 
+- 📊 I'm a design, development, and data girl. I'm thrive at the intersection of the three.
 - :computer: I'm getting my MS in Data Science from UT Austin.  
 - 🤘🏼 I just graduated with my BS from UT Austin where I studied Computational Biology and minored in Computer Science.
 
